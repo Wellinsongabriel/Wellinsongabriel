@@ -7,8 +7,8 @@ Apaixonado por tecnologia e programação💙
 
 <a href="https://github.com/wellinsongabriel">
 <div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellinsongabriel&show_icons=true&include_all_commits=true&theme=radical&custom_title=Status%20no%20GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellinsongabriel&&layout=compactshow_icons=true&theme=radical&custom_title=Principais%20linguagens"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Wellinsongabriel&show_icons=true&include_all_commits=true&theme=radical&custom_title=Status%20no%20GitHub"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellinsongabriel&show_icons=true&theme=radical&custom_title=Principais%20linguagens"/>
 </div>
 
 <div style="padding-left: 30%;" align="center" ><br>
