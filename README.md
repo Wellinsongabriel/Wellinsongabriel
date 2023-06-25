@@ -1,17 +1,12 @@
 Oi, me chamo Wellinson!
 
-Sou aluno de Análise e Desenvolvimento de Sistemas.👨‍💻
+Sou desenvolvedor Java 👨‍💻
 <br>
-Apaixonado por tecnologia e programação💙
+Formado em Análise e Desenvolvimento de Sistemas 👨‍🎓
 <br>
-
-<a href="https://github.com/wellinsongabriel">
-<div style="display: inline_block">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Wellinsongabriel&show_icons=true&include_all_commits=true&theme=radical&custom_title=Status%20no%20GitHub"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellinsongabriel&show_icons=true&theme=radical&custom_title=Principais%20linguagens"/>
-</div>
-
-<div style="padding-left: 30%;" align="center" ><br>
+Apaixonado por tecnologia e programação💚
+<br><br>
+<div style="padding-left: 30%;" align="center" >
   <img align="center" alt="logo Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="logo PHP" src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=PHP&logoColor=white">
   <img align="center" alt="logo JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
