@@ -1,6 +1,6 @@
-Oi, me chamo Wellinson!
+Olá, me chamo Wellinson!
 
-Sou desenvolvedor Java 👨‍💻
+Sou Analista e desenvolvedor Full Stack👨‍💻
 <br>
 Formado em Análise e Desenvolvimento de Sistemas 👨‍🎓
 <br>
